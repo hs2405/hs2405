@@ -23,5 +23,5 @@ Hi, I'm Hitain Shroff 👋
 
 click here for resume 
 
-http://127.0.0.1:5500/3d_resume_website.html
+https://80593696-233c-462a-afe6-5e763656b6ff-00-29n8t9uayhkt0.riker.replit.dev/
 
