@@ -19,3 +19,9 @@ Hi, I'm Hitain Shroff 👋
 .Dive deeper into ReactJS and modern frontend frameworks.
 .Learn advanced ethical hacking techniques and tools.
 .Build Python-based automation scripts
+
+
+click here for resume 
+
+http://127.0.0.1:5500/3d_resume_website.html
+
