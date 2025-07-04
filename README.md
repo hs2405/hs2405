@@ -23,5 +23,6 @@ Hi, I'm Hitain Shroff 👋
 
 click here for resume 
 
-https://80593696-233c-462a-afe6-5e763656b6ff-00-29n8t9uayhkt0.riker.replit.dev/
+https://25da01fd-1f67-45af-9937-944f5de462cd-00-2vo80xntjr2l1.worf.replit.dev/
+
 
